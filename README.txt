@@ -1,7 +1,5 @@
                                                                           @@@@@ Shortest Paths in a Network @@@@@
 
-NAME       : VIDHUSHINI SRINIVASAN
-STUDENT ID : 801029539
 
 PROGRAM AND DATA STRUCTURE DESIGN
 ============================================================================================================================
